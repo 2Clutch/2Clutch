@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![2Clutch's github stats](https://github-readme-stats.vercel.app/api?username=2Clutch&count_private=true&show_icons=true&hide=Java,HTML,CSS)](https://github.com/2Clutch/github-readme-stats)
+[![2Clutch's github stats](https://github-readme-stats.vercel.app/api?username=2Clutch&count_private=true&show_icons=true)](https://github.com/2Clutch/github-readme-stats)
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Clutch&langs_count=10&layout=compact)](https://github.com/2Clutch/github-readme-stats)
 
