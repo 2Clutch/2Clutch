@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-My mother would probably describe me as, "something else." 
+My mother would probably describe me as, "something else."
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2Clutch)](https://github.com/2Clutch/github-readme-stats)
+
 <!--
 **2Clutch/2Clutch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
