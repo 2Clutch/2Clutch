@@ -3,6 +3,7 @@
 [![2Clutch's github stats](https://github-readme-stats.vercel.app/api?username=2Clutch&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/2Clutch/github-readme-stats)
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Clutch&langs_count=10&hide=java,html,css&hide_borders=true&layout=compact)](https://github.com/2Clutch/github-readme-stats)
+&nbsp; 
 [![2Clutch's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=2Clutch&layout=compact&hide_progress=true)](https://github.com/2Clutch/github-readme-stats)
 
 
@@ -10,6 +11,7 @@
 
 My mother would probably describe me as, "something else."
 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 
 <!--
