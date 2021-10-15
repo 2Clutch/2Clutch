@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-[![Top Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Clutch&hide_borders=true&layout=compact)](https://github.com/2Clutch/github-readme-stats)
+[![Top GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Clutch&hide_borders=true&layout=compact)](https://github.com/2Clutch/github-readme-stats)
 
 <br>
 
-[![2Clutch's github stats](https://github-readme-stats.vercel.app/api?username=2Clutch&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/2Clutch/github-readme-stats)
+[![2Clutch's GitHub stats](https://github-readme-stats.vercel.app/api?username=2Clutch&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/2Clutch/github-readme-stats)
 
 <br>
 
@@ -13,6 +13,10 @@
 <br>
 
 [![2Clutch's wakatime overall stats](https://wakatime.com/badge/user/3b854071-d78f-41fe-be35-6e6fd2abba74.svg)](https://wakatime.com/@3b854071-d78f-41fe-be35-6e6fd2abba74)
+
+<br>
+
+[![2Clutch's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=2Clutch&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
