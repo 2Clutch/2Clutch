@@ -4,7 +4,7 @@
 
 <br>
 
-[![2Clutch's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=2Clutch&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![2Clutch's wakatime weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=2Clutch&layout=compact&hide_progress=true)](https://github.com/2Clutch/github-readme-stats)
 
 <br>
 
@@ -12,11 +12,14 @@
 
 <br>
 
-[![2Clutch's GitHub stats](https://github-readme-stats.vercel.app/api?username=2Clutch&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/2Clutch/github-readme-stats)
+[![2Clutch's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=2Clutch&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br>
 
-[![2Clutch's wakatime weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=2Clutch&layout=compact&hide_progress=true)](https://github.com/2Clutch/github-readme-stats)
+[![2Clutch's GitHub stats](https://github-readme-stats.vercel.app/api?username=2Clutch&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/2Clutch/github-readme-stats)
+
+
+
 
 My mother would probably describe me as, "something else."
 
