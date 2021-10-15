@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Clutch&hide_borders=true&layout=compact)](https://github.com/2Clutch/github-readme-stats)
+[![Top Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Clutch&hide_borders=true&layout=compact)](https://github.com/2Clutch/github-readme-stats)
 
 <br>
 
@@ -8,7 +8,11 @@
 
 <br>
 
-[![2Clutch's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=2Clutch&layout=compact&hide_progress=true)](https://github.com/2Clutch/github-readme-stats)
+[![2Clutch's wakatime weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=2Clutch&layout=compact&hide_progress=true)](https://github.com/2Clutch/github-readme-stats)
+
+<br>
+
+[![2Clutch's wakatime overall stats](https://wakatime.com/badge/user/3b854071-d78f-41fe-be35-6e6fd2abba74.svg)](https://wakatime.com/@3b854071-d78f-41fe-be35-6e6fd2abba74)
 
 
 
