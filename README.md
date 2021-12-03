@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![2Clutch's wakatime overall stats](https://wakatime.com/badge/user/3b854071-d78f-41fe-be35-6e6fd2abba74.svg)](https://wakatime.com/@3b854071-d78f-41fe-be35-6e6fd2abba74) ![](https://visitor-badge.glitch.me/badge?page_id=2Clutch.2Clutch)
+[![2Clutch's wakatime overall stats](https://wakatime.com/badge/user/3b854071-d78f-41fe-be35-6e6fd2abba74.svg)](https://wakatime.com/@3b854071-d78f-41fe-be35-6e6fd2abba74) ![](https://visitor-badge.glitch.me/badge?page_id=2Clutch.visitor-badge)
 
 <br>
 
