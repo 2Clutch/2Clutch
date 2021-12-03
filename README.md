@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![2Clutch's wakatime overall stats](https://wakatime.com/badge/user/3b854071-d78f-41fe-be35-6e6fd2abba74.svg)](https://wakatime.com/@3b854071-d78f-41fe-be35-6e6fd2abba74) is a rough estimate of how much time I've spent writing and debugging code since September 24, 2020.
+[![2Clutch's wakatime overall stats](https://wakatime.com/badge/user/3b854071-d78f-41fe-be35-6e6fd2abba74.svg)](https://wakatime.com/@3b854071-d78f-41fe-be35-6e6fd2abba74)
+
+![](https://visitor-badge.glitch.me/badge?page_id=2Clutch.2Clutch)
 
 <br>
 
