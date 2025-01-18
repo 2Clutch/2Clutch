@@ -12,7 +12,7 @@
 
 <br>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=2Clutch)](https://git.io/streak-stats)
 
 <br>
 
