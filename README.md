@@ -4,7 +4,7 @@
 
 <br>
 
-[![Top GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Clutch&hide_borders=true&layout=compact)](https://github.com/2Clutch/github-readme-stats)
+[![Top GitHub Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=2Clutch&hide_border=true&layout=compact)](https://github.com/stats-organization/github-stats-extended)
 
 <br>
 
