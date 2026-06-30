@@ -8,7 +8,7 @@
 
 <br>
 
-[![2Clutch's wakatime weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=2Clutch&layout=compact&hide_progress=true)](https://github.com/2Clutch/github-readme-stats)
+[![2Clutch's wakatime weekly stats](https://github-stats-extended.vercel.app/api/wakatime?username=2Clutch&layout=compact&hide_progress=true)](https://github.com/stats-organization/github-stats-extended)
 
 <br>
 
@@ -17,9 +17,6 @@
 <br>
 
 [![2Clutch's GitHub stats](https://github-readme-stats.vercel.app/api?username=2Clutch&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/2Clutch/github-readme-stats)
-
-
-
 
 My mother would probably describe me as, "something else."
 
