@@ -4,7 +4,7 @@
 
 <br>
 
-[![Top GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Clutch&hide_border=true&layout=compact)](https://github.com/2Clutch/github-readme-stats)
+[![Top GitHub Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2Clutch&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <br>
 
