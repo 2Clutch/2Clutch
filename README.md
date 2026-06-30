@@ -16,7 +16,7 @@
 
 <br>
 
-[![2Clutch's GitHub stats](https://github-readme-stats.vercel.app/api?username=2Clutch&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/2Clutch/github-readme-stats)
+[![2Clutch's GitHub stats](https://github-stats-extended.vercel.app/api?username=2Clutch&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
 
 My mother would probably describe me as, "something else."
 
