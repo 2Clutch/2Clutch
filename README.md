@@ -1,22 +1,25 @@
 ### Hi there 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=2Clutch.visitor-badge) ![2Clutch's wakatime overall stats](https://wakatime.com/@3b854071-d78f-41fe-be35-6e6fd2abba74)
+![](https://komarev.com/ghpvc/?username=2Clutch&style=flat) [![2Clutch's wakatime overall stats](https://wakatime.com/badge/user/3b854071-d78f-41fe-be35-6e6fd2abba74.svg)](https://wakatime.com/@3b854071-d78f-41fe-be35-6e6fd2abba74)
 
 <br>
 
-![Top GitHub Langs](https://github.com/2Clutch/github-readme-stats)
+[![Top GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Clutch&hide_border=true&layout=compact)](https://github.com/2Clutch/github-readme-stats)
 
 <br>
 
-![2Clutch's wakatime weekly stats](https://github.com/2Clutch/github-readme-stats)
+[![2Clutch's wakatime weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=2Clutch&layout=compact&hide_progress=true)](https://github.com/2Clutch/github-readme-stats)
 
 <br>
 
-![GitHub Streak](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=2Clutch)](https://git.io/streak-stats)
 
 <br>
 
-![2Clutch's GitHub stats](https://github.com/2Clutch/github-readme-stats)
+[![2Clutch's GitHub stats](https://github-readme-stats.vercel.app/api?username=2Clutch&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/2Clutch/github-readme-stats)
+
+
+
 
 My mother would probably describe me as, "something else."
 
@@ -24,7 +27,7 @@ My mother would probably describe me as, "something else."
 
 
 <!--
-**2Clutch/2Clutch** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+**2Clutch/2Clutch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -37,3 +40,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+------
