@@ -8,7 +8,7 @@
 
 <br>
 
-[![2Clutch's wakatime weekly stats](https://img.shields.io/badge/dynamic/json?color=blue&label=WakaTime%20last%207%20days&query=%24.data.human_readable_total_including_other_language&url=https%3A%2F%2Fwakatime.com%2Fapi%2Fv1%2Fusers%2F2Clutch%2Fstats%2Flast_7_days)](https://wakatime.com/@3b854071-d78f-41fe-be35-6e6fd2abba74)
+[![2Clutch's wakatime weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=2Clutch&layout=compact&hide_progress=true)](https://github.com/2Clutch/github-readme-stats)
 
 <br>
 
