@@ -4,7 +4,7 @@
 
 <br>
 
-[![Top GitHub Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=2Clutch&hide_border=true&layout=compact&langs_count=10)](https://github.com/stats-organization/github-stats-extended)
+[![Top GitHub Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=2Clutch&hide_border=true&layout=compact&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/stats-organization/github-stats-extended)
 
 <br>
 
